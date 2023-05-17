@@ -1,4 +1,6 @@
 # Spiral Test Project
+![localhost_3000_ (2)](https://github.com/jusdy/spiral-test/assets/89120956/2b9ca623-6b67-4dd7-bece-4d31c470886e)
+![localhost_3000_ (1)](https://github.com/jusdy/spiral-test/assets/89120956/30b36343-b64f-42f1-b8ba-84ab3d42d472)
 
 > NOTE: This is thirsty drink searcher app.
 
